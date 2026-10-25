@@ -1,8 +1,8 @@
 # ⚡ E-Redes Cortes – Integração para Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
-[![GitHub release](https://img.shields.io/github/v/release/O_TEU_USER/ha-eredes-cortes)](https://github.com/O_TEU_USER/ha-eredes-cortes/releases)
-[![Validate](https://github.com/O_TEU_USER/ha-eredes-cortes/actions/workflows/validate.yml/badge.svg)](https://github.com/O_TEU_USER/ha-eredes-cortes/actions/workflows/validate.yml)
+[![GitHub release](https://img.shields.io/github/v/release/pedrommcouto/ha-eredes-cortes)](https://github.com/pedrommcouto/ha-eredes-cortes/releases)
+[![Validate](https://github.com/pedrommcouto/ha-eredes-cortes/actions/workflows/validate.yml/badge.svg)](https://github.com/pedrommcouto/ha-eredes-cortes/actions/workflows/validate.yml)
 
 Integração personalizada para o [Home Assistant](https://www.home-assistant.io/) que mostra as **interrupções de energia programadas** (obras na rede) da E-Redes para as localizações que escolheres.
 
@@ -20,10 +20,10 @@ Integração personalizada para o [Home Assistant](https://www.home-assistant.io
 ### Via HACS (recomendado)
 
 1. No Home Assistant, abre **HACS → ⋮ → Repositórios personalizados**.
-2. Adiciona `https://github.com/O_TEU_USER/ha-eredes-cortes` com a categoria **Integração**.
+2. Adiciona `https://github.com/pedrommcouto/ha-eredes-cortes` com a categoria **Integração**.
 3. Procura **E-Redes Cortes**, instala e **reinicia o Home Assistant**.
 
-[![Abrir no HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=O_TEU_USER&repository=ha-eredes-cortes&category=integration)
+[![Abrir no HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=pedrommcouto&repository=ha-eredes-cortes&category=integration)
 
 ### Instalação manual
 
@@ -298,7 +298,7 @@ actions:
 
 ## Contribuir
 
-Contribuições são bem-vindas. Abre um [issue](https://github.com/O_TEU_USER/ha-eredes-cortes/issues) para reportar problemas ou sugerir melhorias, ou envia um *pull request*. Ao reportar um erro, junta a versão do Home Assistant e os logs relevantes (**Definições → Sistema → Registos**), sem dados pessoais.
+Contribuições são bem-vindas. Abre um [issue](https://github.com/pedrommcouto/ha-eredes-cortes/issues) para reportar problemas ou sugerir melhorias, ou envia um *pull request*. Ao reportar um erro, junta a versão do Home Assistant e os logs relevantes (**Definições → Sistema → Registos**), sem dados pessoais.
 
 ## Licença
 

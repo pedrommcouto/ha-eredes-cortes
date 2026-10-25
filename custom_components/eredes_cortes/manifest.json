@@ -1,14 +1,15 @@
 {
   "domain": "eredes_cortes",
   "name": "E-Redes Interrupções Programadas",
+  "categories": ["local_services"],
+  "codeowners": ["@pedrommcouto"],
   "config_flow": true,
   "documentation": "https://github.com/exemplo/eredes_cortes",
+  "integration_type": "service",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/exemplo/eredes_cortes/issues",
-  "version": "1.0.0",
-  "codeowners": ["@pedrommcouto"],
-  "documentation": "https://github.com/pedrommcouto/ha-eredes-cortes",
-  "issue_tracker": "https://github.com/pedrommcouto/ha-eredes-cortes/issues",
-  "icon": "mdi:flash-alert",
-  "requirements": []
+  "requirements": [],
+  "version": "1.0.1"
+  
+  
 }
