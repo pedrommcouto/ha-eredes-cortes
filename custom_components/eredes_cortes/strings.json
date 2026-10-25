@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configurar Interrupções E-Redes",
+        "description": "Selecione o concelho, a freguesia e/ou indique o código postal para filtrar as interrupções.",
+        "data": {
+          "municipality": "Concelho / Município",
+          "parish": "Freguesia",
+          "zipcode": "Código Postal (ex: 2560-192)"
+        }
+      }
+    },
+    "error": {
+      "no_fields_provided": "Deve preencher pelo menos um dos campos de filtragem."
+    }
+  }
+}
