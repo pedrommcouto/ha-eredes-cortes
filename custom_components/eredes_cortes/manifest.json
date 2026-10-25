@@ -1,7 +1,6 @@
 {
   "domain": "eredes_cortes",
   "name": "E-Redes Interrupções Programadas",
-  "categories": ["local_services"],
   "codeowners": ["@pedrommcouto"],
   "config_flow": true,
   "documentation": "https://github.com/exemplo/eredes_cortes",
